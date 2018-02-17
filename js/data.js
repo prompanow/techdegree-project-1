@@ -1,4 +1,4 @@
-// This file contains all of the quotes in a array of object
+// This file contains all of the quotes in an array of object
 
 var quotes = [
   {
